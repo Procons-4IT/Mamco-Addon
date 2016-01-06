@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MamcoAddOns", "GUI\MamcoAddOns.vbproj", "{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MamcoInstaller", "Installer\MamcoInstaller.vbproj", "{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MamcoUDO", "AddUDO\MamcoUDO.vbproj", "{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

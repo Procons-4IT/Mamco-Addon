@@ -1,0 +1,92 @@
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\MamcoAddOns_v2\MamcoAddOns\GUI\obj\Debug\MamcoAddOns.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\MamcoAddOns_v2\MamcoAddOns\GUI\obj\Debug\MamcoAddOns.pdb
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\MamcoAddOns.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\MamcoAddOns.xml
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\MamcoAddOns.pdb
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\bin\Debug\MamcoAddOns.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\bin\Debug\MamcoAddOns.pdb
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\bin\Debug\MamcoAddOns.xml
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\MamcoAddOns.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\MamcoAddOns.frmShipment.srf
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\GUI\obj\Debug\MamcoAddOns.icon.ico
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.xml
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.pdb
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.exe
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.xml
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.pdb
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\bin\Debug\MamcoAddOns.exe
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\bin\Debug\MamcoAddOns.pdb
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\bin\Debug\MamcoAddOns.xml
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\bin\Debug\Interop.SAPbobsCOM.dll
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\bin\Debug\Interop.SAPbouiCOM.dll
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\ResolveAssemblyReference.cache
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\Interop.SAPbobsCOM.dll
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\Interop.SAPbouiCOM.dll
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.vbproj.ResolveComReference.cache
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.frmShipment.srf
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\GUI\obj\Debug\MamcoAddOns.icon.ico
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\MamcoAddOns.exe
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\MamcoAddOns.xml
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\MamcoAddOns.pdb
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\bin\Debug\MamcoAddOns.exe
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\bin\Debug\MamcoAddOns.pdb
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\bin\Debug\MamcoAddOns.xml
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\bin\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\bin\Debug\Interop.SAPbouiCOM.dll
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\Interop.SAPbouiCOM.dll
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\MamcoAddOns.vbproj.ResolveComReference.cache
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\MamcoAddOns.frmShipment.srf
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\GUI\obj\Debug\MamcoAddOns.icon.ico
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\MamcoAddOns.exe
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\MamcoAddOns.xml
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\MamcoAddOns.pdb
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\bin\Debug\MamcoAddOns.exe
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\bin\Debug\MamcoAddOns.pdb
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\bin\Debug\MamcoAddOns.xml
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\bin\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\bin\Debug\Interop.SAPbouiCOM.dll
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\Interop.SAPbouiCOM.dll
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\MamcoAddOns.vbproj.ResolveComReference.cache
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\MamcoAddOns.frmShipment.srf
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\GUI\obj\Debug\MamcoAddOns.icon.ico
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\MamcoAddOns.exe
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\MamcoAddOns.xml
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\MamcoAddOns.pdb
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\bin\Debug\MamcoAddOns.exe
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\bin\Debug\MamcoAddOns.pdb
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\bin\Debug\MamcoAddOns.xml
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\bin\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\bin\Debug\Interop.SAPbouiCOM.dll
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\Interop.SAPbouiCOM.dll
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\MamcoAddOns.vbproj.ResolveComReference.cache
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\MamcoAddOns.frmShipment.srf
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\GUI\obj\Debug\MamcoAddOns.icon.ico
+E:\InterNational Business Projects\Procons-4it\Mamco Addon 8.82\20120919_Delivery_MAMCOAddons\Source_200903_20110707\GUI\obj\Debug\MamcoAddOns.exe
+E:\InterNational Business Projects\Procons-4it\Mamco Addon 8.82\20120919_Delivery_MAMCOAddons\Source_200903_20110707\GUI\obj\Debug\MamcoAddOns.xml
+E:\InterNational Business Projects\Procons-4it\Mamco Addon 8.82\20120919_Delivery_MAMCOAddons\Source_200903_20110707\GUI\obj\Debug\MamcoAddOns.pdb
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\MamcoAddOns.exe
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\MamcoAddOns.xml
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\MamcoAddOns.pdb
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\bin\Debug\MamcoAddOns.exe
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\bin\Debug\MamcoAddOns.pdb
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\bin\Debug\MamcoAddOns.xml
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\MamcoAddOns.vbproj.ResolveComReference.cache
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\MamcoAddOns.frmShipment.srf
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\GUI\obj\Debug\MamcoAddOns.icon.ico

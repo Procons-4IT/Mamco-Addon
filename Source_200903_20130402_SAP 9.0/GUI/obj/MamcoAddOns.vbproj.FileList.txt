@@ -1,0 +1,14 @@
+obj\Debug\MamcoAddOns.exe
+obj\Debug\MamcoAddOns.pdb
+bin\Debug\MamcoAddOns.exe
+bin\Debug\MamcoAddOns.pdb
+bin\Debug\MamcoAddOns.xml
+bin\Debug\Interop.SAPbobsCOM.dll
+bin\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SAPbobsCOM.dll
+obj\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\MamcoAddOns.vbproj.ResolveComReference.cache
+obj\Debug\MamcoAddOns.frmShipment.srf
+obj\Debug\MamcoAddOns.icon.ico
+obj\Debug\MamcoAddOns.xml

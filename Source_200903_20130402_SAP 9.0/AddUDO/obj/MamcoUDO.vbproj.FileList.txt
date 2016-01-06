@@ -1,0 +1,12 @@
+bin\MamcoUDO.exe
+bin\MamcoUDO.pdb
+bin\MamcoUDO.xml
+bin\Interop.SAPbobsCOM.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SAPbobsCOM.dll
+obj\Debug\MamcoUDO.vbproj.ResolveComReference.cache
+obj\Debug\MamcoUDO.frmUDO.resources
+obj\Debug\MamcoUDO.vbproj.GenerateResource.Cache
+obj\Debug\MamcoUDO.exe
+obj\Debug\MamcoUDO.xml
+obj\Debug\MamcoUDO.pdb

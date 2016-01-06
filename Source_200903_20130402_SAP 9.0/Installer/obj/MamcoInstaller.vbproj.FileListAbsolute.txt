@@ -1,0 +1,108 @@
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\bin\MamcoInstaller.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\bin\MamcoInstaller.pdb
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\bin\MamcoInstaller.xml
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.pdb
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseControl.resources
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseForm.resources
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\MamcoInstaller.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\MamcoInstaller.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\MamcoInstaller.xml
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\Installer\obj\Debug\MamcoInstaller.pdb
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\bin\MamcoInstaller.exe
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\bin\MamcoInstaller.pdb
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\bin\MamcoInstaller.xml
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\ResolveAssemblyReference.cache
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.Interop.SAPbobsCOM.dll
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.Interop.SAPbouiCOM.dll
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.exe
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.pdb
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseControl.resources
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseForm.resources
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\MamcoInstaller.vbproj.GenerateResource.Cache
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\MamcoInstaller.exe
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\MamcoInstaller.xml
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\Installer\obj\Debug\MamcoInstaller.pdb
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\bin\MamcoInstaller.exe
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\bin\MamcoInstaller.pdb
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\bin\MamcoInstaller.xml
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.Interop.SAPbouiCOM.dll
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.exe
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.pdb
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseControl.resources
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseForm.resources
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\MamcoInstaller.vbproj.GenerateResource.Cache
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\MamcoInstaller.exe
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\MamcoInstaller.xml
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\Installer\obj\Debug\MamcoInstaller.pdb
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\bin\MamcoInstaller.exe
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\bin\MamcoInstaller.pdb
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\bin\MamcoInstaller.xml
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.Interop.SAPbouiCOM.dll
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.exe
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.pdb
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseControl.resources
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseForm.resources
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\MamcoInstaller.vbproj.GenerateResource.Cache
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\MamcoInstaller.exe
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\MamcoInstaller.xml
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\Installer\obj\Debug\MamcoInstaller.pdb
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\bin\MamcoInstaller.exe
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\bin\MamcoInstaller.pdb
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\bin\MamcoInstaller.xml
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.Interop.SAPbobsCOM.dll
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.Interop.SAPbouiCOM.dll
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.exe
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.pdb
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseControl.resources
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseForm.resources
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\MamcoInstaller.vbproj.GenerateResource.Cache
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\MamcoInstaller.exe
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\MamcoInstaller.xml
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\Installer\obj\Debug\MamcoInstaller.pdb
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\bin\MamcoInstaller.exe
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\bin\MamcoInstaller.pdb
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\bin\MamcoInstaller.xml
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.Interop.SAPbobsCOM.dll
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.Interop.SAPbouiCOM.dll
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.exe
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.MamcoAddOns.pdb
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseControl.resources
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.BaseForm.resources
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallEndedControl.resources
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallMainControl.resources
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.InstallPathControl.resources
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\AddOnInstaller.AddOnInstaller.UnInstallControl.resources
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\MamcoInstaller.vbproj.GenerateResource.Cache
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\MamcoInstaller.exe
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\MamcoInstaller.xml
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\Installer\obj\Debug\MamcoInstaller.pdb

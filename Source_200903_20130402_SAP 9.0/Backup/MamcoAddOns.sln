@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MamcoAddOns", "GUI\MamcoAddOns.vbproj", "{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MamcoInstaller", "Installer\MamcoInstaller.vbproj", "{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MamcoUDO", "AddUDO\MamcoUDO.vbproj", "{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}.Debug.ActiveCfg = Debug|.NET
+		{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}.Debug.Build.0 = Debug|.NET
+		{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}.Release.ActiveCfg = Release|.NET
+		{C0DDC094-F87C-47AE-BF50-C9E0C73D5F75}.Release.Build.0 = Release|.NET
+		{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}.Debug.ActiveCfg = Debug|.NET
+		{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}.Debug.Build.0 = Debug|.NET
+		{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}.Release.ActiveCfg = Release|.NET
+		{5390AD13-97EB-41B9-90E0-F27BEA0CDDDA}.Release.Build.0 = Release|.NET
+		{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}.Debug.ActiveCfg = Debug|.NET
+		{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}.Debug.Build.0 = Debug|.NET
+		{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}.Release.ActiveCfg = Release|.NET
+		{273A6F48-3217-4F3D-9110-2CF2A0D1FCBF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

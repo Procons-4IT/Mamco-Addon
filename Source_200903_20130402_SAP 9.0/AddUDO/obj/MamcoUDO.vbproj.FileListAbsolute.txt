@@ -1,0 +1,72 @@
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\bin\MamcoUDO.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\bin\MamcoUDO.pdb
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\bin\MamcoUDO.xml
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\obj\Debug\MamcoUDO.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\obj\Debug\MamcoUDO.frmUDO.resources
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\obj\Debug\MamcoUDO.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\obj\Debug\MamcoUDO.exe
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\obj\Debug\MamcoUDO.xml
+E:\InterNational Business Projects\Geroge\DatabestSourcecodes\2007a\MamcoAddOns\AddUDO\obj\Debug\MamcoUDO.pdb
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\bin\MamcoUDO.exe
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\bin\MamcoUDO.pdb
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\bin\MamcoUDO.xml
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\bin\Interop.SAPbobsCOM.dll
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\obj\Debug\ResolveAssemblyReference.cache
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\obj\Debug\Interop.SAPbobsCOM.dll
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\obj\Debug\MamcoUDO.vbproj.ResolveComReference.cache
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\obj\Debug\MamcoUDO.frmUDO.resources
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\obj\Debug\MamcoUDO.vbproj.GenerateResource.Cache
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\obj\Debug\MamcoUDO.exe
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\obj\Debug\MamcoUDO.xml
+E:\SAP 8.81 Projects\George\MamcoAddon_Delivery_20091210\MamcoAddon_Delivery_20091210\Source_200903\AddUDO\obj\Debug\MamcoUDO.pdb
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\bin\MamcoUDO.exe
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\bin\MamcoUDO.pdb
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\bin\MamcoUDO.xml
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\bin\Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\obj\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\obj\Debug\MamcoUDO.vbproj.ResolveComReference.cache
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\obj\Debug\MamcoUDO.frmUDO.resources
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\obj\Debug\MamcoUDO.vbproj.GenerateResource.Cache
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\obj\Debug\MamcoUDO.exe
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\obj\Debug\MamcoUDO.xml
+C:\International Projects\George\20110627_SAP 8.81_Projects\Mamco_20110627\Source_200903_20110627\AddUDO\obj\Debug\MamcoUDO.pdb
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\bin\MamcoUDO.exe
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\bin\MamcoUDO.pdb
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\bin\MamcoUDO.xml
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\bin\Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\obj\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\obj\Debug\MamcoUDO.vbproj.ResolveComReference.cache
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\obj\Debug\MamcoUDO.frmUDO.resources
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\obj\Debug\MamcoUDO.vbproj.GenerateResource.Cache
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\obj\Debug\MamcoUDO.exe
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\obj\Debug\MamcoUDO.xml
+C:\International Projects\George\20110628_MamcoAddons\Source_200903_20110628\AddUDO\obj\Debug\MamcoUDO.pdb
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\bin\MamcoUDO.exe
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\bin\MamcoUDO.pdb
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\bin\MamcoUDO.xml
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\bin\Interop.SAPbobsCOM.dll
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\obj\Debug\ResolveAssemblyReference.cache
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\obj\Debug\Interop.SAPbobsCOM.dll
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\obj\Debug\MamcoUDO.vbproj.ResolveComReference.cache
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\obj\Debug\MamcoUDO.frmUDO.resources
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\obj\Debug\MamcoUDO.vbproj.GenerateResource.Cache
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\obj\Debug\MamcoUDO.exe
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\obj\Debug\MamcoUDO.xml
+C:\International Projects\George\MamcoAddons\Source_200903_20110704\AddUDO\obj\Debug\MamcoUDO.pdb
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\bin\MamcoUDO.exe
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\bin\MamcoUDO.pdb
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\bin\MamcoUDO.xml
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\bin\Interop.SAPbobsCOM.dll
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\obj\Debug\MamcoUDO.vbproj.ResolveComReference.cache
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\obj\Debug\MamcoUDO.frmUDO.resources
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\obj\Debug\MamcoUDO.vbproj.GenerateResource.Cache
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\obj\Debug\MamcoUDO.exe
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\obj\Debug\MamcoUDO.xml
+C:\Projects\Mamco Addon 9.0\20130402_Delivery_MAMCOAddons\Source_200903_20130402_SAP 9.0\AddUDO\obj\Debug\MamcoUDO.pdb

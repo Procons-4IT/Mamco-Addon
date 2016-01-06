@@ -1,0 +1,33 @@
+OSHP - Shipment Document
+========================
+
+VenCode - Vendor Code
+VenName - Vendor Name
+VenRefNo - Vendor Ref. No.
+CnctCode - Contact Name
+Containr - Container number 
+ProForma - Pro forma number
+SealNum - Seal number
+Vessel - Vessel name
+DueDate - Due date
+ArvDate - Arrival date
+Agent - Shipping agent
+Comments - Remarks
+
+
+
+SHP1 - Shipment Document Rows
+=============================
+
+BaseRef - Base Document Reference
+BaseEntry - Base Document Key
+BaseLine - Base Row
+LineStatus - Row Status (O/C)
+ItemCode - Item No.
+ItemName - Item Description
+Quantity - Quantity
+ShipQty - Shipped Quantity
+Price - Price
+Currency - Price Currency
+UnitMsr - Unit of measure
+CrtUnit - Carton unit of measure
